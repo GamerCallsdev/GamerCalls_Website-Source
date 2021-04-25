@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site":"gamercalls-website",
+    "public": "Pages",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

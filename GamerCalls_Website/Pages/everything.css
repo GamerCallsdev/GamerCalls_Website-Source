@@ -1,0 +1,56 @@
+/* Noice this was coded by GamerCalls no seriously it was*/
+
+input{
+    text-align: match-parent;
+    color: white;
+    width: 10mm;
+}
+
+body {
+
+   background-color: rgb(56, 50, 50);
+   text-align: center; 
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+h3{
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+h4{
+    color: white;
+    text-align: center;
+}
+ 
+h5 {
+    color: white;
+    text-align: center;
+}
+
+li{
+    color: white;
+}
+
+ol{
+    color: white;
+    text-align: center;
+}
+
+h6{
+    color: white;
+}
